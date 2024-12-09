@@ -1,7 +1,7 @@
 # 210-Library-Project
 
 Project: Library
-Demo Video: Github: https://github.com/matthewShulkin/210-Library-Project/tree/main
+Demo Video: https://drive.google.com/file/d/1ckMdyslqrhYeCd7gIjyeQoi9jbqyaUhq/view?usp=drive_link
 This repository contains Python code for buidling and analyzing a library book tracking system. This project is designed to manage library operations, track borrowing patters, and predict overdue returns using machine learning
 
 Features:
